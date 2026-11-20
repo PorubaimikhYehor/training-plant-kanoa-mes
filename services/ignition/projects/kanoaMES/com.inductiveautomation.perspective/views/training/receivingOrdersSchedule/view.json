@@ -4,84 +4,60 @@
       "$": [
         "ds",
         192,
-        1795003925989
+        1795099249852
       ],
       "$columns": [
         {
           "data": [
-            1,
-            2,
-            3,
-            4
+            1
           ],
           "name": "workOrderId",
           "type": "Integer"
         },
         {
           "data": [
-            "RCV000001",
-            "RCV000002",
-            "RCV000005",
-            "RCV000003"
+            "0001"
           ],
           "name": "workOrderName",
           "type": "String"
         },
         {
           "data": [
-            "RCV Corn Syrup",
-            "Sugar Syrup",
-            "RCV000005 Title",
-            "qawer"
+            "RCV)1"
           ],
           "name": "workOrderTitle",
           "type": "String"
         },
         {
           "data": [
-            1,
-            2,
-            3,
-            3
+            1
           ],
           "name": "itemId",
           "type": "Integer"
         },
         {
           "data": [
-            "Corn Syrup",
-            "Sugar Syrup",
-            "Vegetable Oil",
-            "Vegetable Oil"
+            "Corn Syrup"
           ],
           "name": "itemName",
           "type": "String"
         },
         {
           "data": [
-            "Training Plant\\RM\\Liquid\\Corn Syrup",
-            "Training Plant\\RM\\Liquid\\Sugar Syrup",
-            "Training Plant\\RM\\Liquid\\Vegetable Oil",
-            "Training Plant\\RM\\Liquid\\Vegetable Oil"
+            "Training Plant\\RM\\Liquid\\Corn Syrup"
           ],
           "name": "itemPath",
           "type": "String"
         },
         {
           "data": [
-            "Bulk Corn Syrup",
-            "Bulk Sugar Syrup",
-            "Bulk Vegetable Oil",
-            "Bulk Vegetable Oil"
+            "Bulk Corn Syrup"
           ],
           "name": "itemDescription",
           "type": "String"
         },
         {
           "data": [
-            11,
-            11,
-            11,
             11
           ],
           "name": "itemUnitId",
@@ -89,9 +65,6 @@
         },
         {
           "data": [
-            "kg",
-            "kg",
-            "kg",
             "kg"
           ],
           "name": "itemUnitName",
@@ -99,9 +72,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "itemColor",
@@ -109,9 +79,6 @@
         },
         {
           "data": [
-            "Liquid",
-            "Liquid",
-            "Liquid",
             "Liquid"
           ],
           "name": "itemClassName",
@@ -119,9 +86,6 @@
         },
         {
           "data": [
-            2,
-            2,
-            2,
             2
           ],
           "name": "parentId",
@@ -129,9 +93,6 @@
         },
         {
           "data": [
-            "Liquid Raw Materials",
-            "Liquid Raw Materials",
-            "Liquid Raw Materials",
             "Liquid Raw Materials"
           ],
           "name": "itemClassDescription",
@@ -139,9 +100,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "itemClassColor",
@@ -149,9 +107,6 @@
         },
         {
           "data": [
-            2,
-            2,
-            2,
             2
           ],
           "name": "modeId",
@@ -159,9 +114,6 @@
         },
         {
           "data": [
-            "Production",
-            "Production",
-            "Production",
             "Production"
           ],
           "name": "modeName",
@@ -169,9 +121,6 @@
         },
         {
           "data": [
-            "Production",
-            "Production",
-            "Production",
             "Production"
           ],
           "name": "modeTypeName",
@@ -179,9 +128,6 @@
         },
         {
           "data": [
-            "#489FE2",
-            "#489FE2",
-            "#489FE2",
             "#489FE2"
           ],
           "name": "modeColor",
@@ -189,19 +135,13 @@
         },
         {
           "data": [
-            20000,
-            30000,
-            11000,
-            12000
+            10000
           ],
           "name": "reqdQty",
           "type": "Double"
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "schedQty",
@@ -209,9 +149,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "actualQty",
@@ -219,19 +156,13 @@
         },
         {
           "data": [
-            1794783600000,
-            1794783600000,
-            1794870000000,
-            1794870000000
+            1794866400000
           ],
           "name": "dueDate",
           "type": "Date"
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "assetId",
@@ -239,9 +170,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "assetPath",
@@ -249,9 +177,6 @@
         },
         {
           "data": [
-            5,
-            3,
-            5,
             5
           ],
           "name": "workOrderStatusId",
@@ -259,9 +184,6 @@
         },
         {
           "data": [
-            "Scheduled",
-            "In Progress",
-            "Scheduled",
             "Scheduled"
           ],
           "name": "workOrderStatusName",
@@ -269,9 +191,6 @@
         },
         {
           "data": [
-            true,
-            true,
-            true,
             true
           ],
           "name": "isActive",
@@ -279,9 +198,6 @@
         },
         {
           "data": [
-            true,
-            true,
-            true,
             true
           ],
           "name": "canSchedule",
@@ -289,9 +205,6 @@
         },
         {
           "data": [
-            true,
-            true,
-            true,
             true
           ],
           "name": "canExecute",
@@ -299,9 +212,6 @@
         },
         {
           "data": [
-            "#123456",
-            "#00D9D9",
-            "#123456",
             "#123456"
           ],
           "name": "statusColor",
@@ -309,9 +219,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "note",
@@ -319,9 +226,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "workOrderSourceId",
@@ -329,9 +233,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "workOrderSourceName",
@@ -339,9 +240,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            null,
             null
           ],
           "name": "workOrderSourceImagePath",
@@ -349,9 +247,6 @@
         },
         {
           "data": [
-            4,
-            4,
-            4,
             4
           ],
           "name": "createdBy",
@@ -359,9 +254,6 @@
         },
         {
           "data": [
-            "admin",
-            "admin",
-            "admin",
             "admin"
           ],
           "name": "createdByUser",
@@ -369,19 +261,13 @@
         },
         {
           "data": [
-            1794822645467,
-            1794833505053,
-            1794993715973,
-            1794993781903
+            1794903300007
           ],
           "name": "createdDate",
           "type": "Date"
         },
         {
           "data": [
-            null,
-            null,
-            4,
             null
           ],
           "name": "changedBy",
@@ -389,9 +275,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            "admin",
             null
           ],
           "name": "changedByUser",
@@ -399,9 +282,6 @@
         },
         {
           "data": [
-            null,
-            null,
-            1794993741423,
             null
           ],
           "name": "changedDate",
@@ -438,7 +318,7 @@
         "$": [
           "ts",
           192,
-          1795003926341
+          1795099250071
         ],
         "$ts": 1795302000000
       },
@@ -446,7 +326,7 @@
         "$": [
           "ts",
           192,
-          1795003926341
+          1795099250071
         ],
         "$ts": 1794697200000
       },
@@ -467,8 +347,7 @@
     "security": {
       "config": {
         "allowGuest": "1",
-        "userSource": "default",
-        "userSources": "[\"default\"]"
+        "userSource": "default"
       },
       "userCRUD": {
         "approveQualityCheck": {
@@ -544,14 +423,11 @@
         "$": [
           "ds",
           192,
-          1795003937553
+          1795099253310
         ],
         "$columns": [
           {
             "data": [
-              4,
-              3,
-              2,
               1
             ],
             "name": "workOrderId",
@@ -559,29 +435,20 @@
           },
           {
             "data": [
-              "RCV000003",
-              "RCV000005",
-              "RCV000002",
-              "RCV000001"
+              "0001"
             ],
             "name": "workOrderName",
             "type": "String"
           },
           {
             "data": [
-              "qawer",
-              "RCV000005 Title",
-              "Sugar Syrup",
-              "RCV Corn Syrup"
+              "RCV)1"
             ],
             "name": "workOrderTitle",
             "type": "String"
           },
           {
             "data": [
-              3,
-              3,
-              2,
               1
             ],
             "name": "itemId",
@@ -589,9 +456,6 @@
           },
           {
             "data": [
-              "Vegetable Oil",
-              "Vegetable Oil",
-              "Sugar Syrup",
               "Corn Syrup"
             ],
             "name": "itemName",
@@ -599,9 +463,6 @@
           },
           {
             "data": [
-              "Training Plant\\RM\\Liquid\\Vegetable Oil",
-              "Training Plant\\RM\\Liquid\\Vegetable Oil",
-              "Training Plant\\RM\\Liquid\\Sugar Syrup",
               "Training Plant\\RM\\Liquid\\Corn Syrup"
             ],
             "name": "itemPath",
@@ -609,9 +470,6 @@
           },
           {
             "data": [
-              "Bulk Vegetable Oil",
-              "Bulk Vegetable Oil",
-              "Bulk Sugar Syrup",
               "Bulk Corn Syrup"
             ],
             "name": "itemDescription",
@@ -619,9 +477,6 @@
           },
           {
             "data": [
-              11,
-              11,
-              11,
               11
             ],
             "name": "itemUnitId",
@@ -629,9 +484,6 @@
           },
           {
             "data": [
-              "kg",
-              "kg",
-              "kg",
               "kg"
             ],
             "name": "itemUnitName",
@@ -639,9 +491,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "itemColor",
@@ -649,9 +498,6 @@
           },
           {
             "data": [
-              "Liquid",
-              "Liquid",
-              "Liquid",
               "Liquid"
             ],
             "name": "itemClassName",
@@ -659,9 +505,6 @@
           },
           {
             "data": [
-              2,
-              2,
-              2,
               2
             ],
             "name": "parentId",
@@ -669,9 +512,6 @@
           },
           {
             "data": [
-              "Liquid Raw Materials",
-              "Liquid Raw Materials",
-              "Liquid Raw Materials",
               "Liquid Raw Materials"
             ],
             "name": "itemClassDescription",
@@ -679,9 +519,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "itemClassColor",
@@ -689,9 +526,6 @@
           },
           {
             "data": [
-              2,
-              2,
-              2,
               2
             ],
             "name": "modeId",
@@ -699,9 +533,6 @@
           },
           {
             "data": [
-              "Production",
-              "Production",
-              "Production",
               "Production"
             ],
             "name": "modeName",
@@ -709,9 +540,6 @@
           },
           {
             "data": [
-              "Production",
-              "Production",
-              "Production",
               "Production"
             ],
             "name": "modeTypeName",
@@ -719,9 +547,6 @@
           },
           {
             "data": [
-              "#489FE2",
-              "#489FE2",
-              "#489FE2",
               "#489FE2"
             ],
             "name": "modeColor",
@@ -729,19 +554,13 @@
           },
           {
             "data": [
-              12000,
-              11000,
-              30000,
-              20000
+              10000
             ],
             "name": "reqdQty",
             "type": "Double"
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "schedQty",
@@ -749,9 +568,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "actualQty",
@@ -759,19 +575,13 @@
           },
           {
             "data": [
-              1794870000000,
-              1794870000000,
-              1794783600000,
-              1794783600000
+              1794866400000
             ],
             "name": "dueDate",
             "type": "Date"
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "assetId",
@@ -779,9 +589,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "assetPath",
@@ -789,9 +596,6 @@
           },
           {
             "data": [
-              5,
-              5,
-              3,
               5
             ],
             "name": "workOrderStatusId",
@@ -799,9 +603,6 @@
           },
           {
             "data": [
-              "Scheduled",
-              "Scheduled",
-              "In Progress",
               "Scheduled"
             ],
             "name": "workOrderStatusName",
@@ -809,9 +610,6 @@
           },
           {
             "data": [
-              true,
-              true,
-              true,
               true
             ],
             "name": "isActive",
@@ -819,9 +617,6 @@
           },
           {
             "data": [
-              true,
-              true,
-              true,
               true
             ],
             "name": "canSchedule",
@@ -829,9 +624,6 @@
           },
           {
             "data": [
-              true,
-              true,
-              true,
               true
             ],
             "name": "canExecute",
@@ -839,9 +631,6 @@
           },
           {
             "data": [
-              "#123456",
-              "#123456",
-              "#00D9D9",
               "#123456"
             ],
             "name": "statusColor",
@@ -849,9 +638,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "note",
@@ -859,9 +645,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "workOrderSourceId",
@@ -869,9 +652,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "workOrderSourceName",
@@ -879,9 +659,6 @@
           },
           {
             "data": [
-              null,
-              null,
-              null,
               null
             ],
             "name": "workOrderSourceImagePath",
@@ -889,9 +666,6 @@
           },
           {
             "data": [
-              4,
-              4,
-              4,
               4
             ],
             "name": "createdBy",
@@ -899,9 +673,6 @@
           },
           {
             "data": [
-              "admin",
-              "admin",
-              "admin",
               "admin"
             ],
             "name": "createdByUser",
@@ -909,19 +680,13 @@
           },
           {
             "data": [
-              1794993781903,
-              1794993715973,
-              1794833505053,
-              1794822645467
+              1794903300007
             ],
             "name": "createdDate",
             "type": "Date"
           },
           {
             "data": [
-              null,
-              4,
-              null,
               null
             ],
             "name": "changedBy",
@@ -929,9 +694,6 @@
           },
           {
             "data": [
-              null,
-              "admin",
-              null,
               null
             ],
             "name": "changedByUser",
@@ -939,9 +701,6 @@
           },
           {
             "data": [
-              null,
-              1794993741423,
-              null,
               null
             ],
             "name": "changedDate",
@@ -950,7 +709,7 @@
         ]
       },
       "selection": {
-        "col": "workOrderTitle",
+        "col": "itemName",
         "data": [
           {
             "actualQty": null,
@@ -958,26 +717,26 @@
             "changedByUser": null,
             "changedDate": null,
             "createdByUser": "admin",
-            "createdDate": "Mon Nov 16 2026 10:50:45 GMT+0100 (Central European Standard Time)",
-            "dueDate": "Mon Nov 16 2026 00:00:00 GMT+0100 (Central European Standard Time)",
+            "createdDate": "Tue Nov 17 2026 10:15:00 GMT+0200 (Eastern European Standard Time)",
+            "dueDate": "Tue Nov 17 2026 00:00:00 GMT+0200 (Eastern European Standard Time)",
             "itemColor": null,
             "itemDescription": "Bulk Corn Syrup",
             "itemName": "Corn Syrup",
             "itemUnitName": "kg",
-            "lastUpdated": "Mon Nov 16 2026 10:50:45 GMT+0100 (Central European Standard Time)",
+            "lastUpdated": "Tue Nov 17 2026 10:15:00 GMT+0200 (Eastern European Standard Time)",
             "modeName": "Production",
             "note": null,
-            "reqdQty": 20000,
+            "reqdQty": 10000,
             "schedQty": null,
             "workOrderId": 1,
-            "workOrderName": "RCV000001",
+            "workOrderName": "0001",
             "workOrderSourceImagePath": null,
             "workOrderSourceName": null,
             "workOrderStatusName": "Scheduled",
-            "workOrderTitle": "RCV Corn Syrup"
+            "workOrderTitle": "RCV)1"
           }
         ],
-        "row": 3
+        "row": 0
       }
     },
     "userAction": {
